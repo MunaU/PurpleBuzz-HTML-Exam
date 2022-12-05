@@ -120,6 +120,63 @@ color: black;
     padding-top: 23px;
     justify-content: space-around;
 }
+.input input{
+       margin-left: 300px;
+    margin-top: -300px;
+    width: 400px;
+    height: 60px;
+}
 
+::placeholder{
+    font-size: large;
+    color: black;
+}
+.input2 input{
+    margin-left: 760px;
+    margin-top: -300px;
+    width: 400px;
+    height: 60px;
+}
+::placeholder{
+    font-size: large;
+    color: black;
+}
+.input3 input{
+    margin-left: 300px;
+    margin-top: -190px;
+    width: 400px;
+    height: 60px;
+}
+::placeholder{
+    font-size: large;
+    color: black;
+}
+.input4 input{
+    margin-left: 760px;
+    margin-top: -190px;
+    width: 400px;
+    height: 60px;
+}
+::placeholder{
+    font-size: large;
+    color: black;
+}
+.input5 input{
+     margin-left: 300px;
+    margin-top: -35px;
+    width: 870px;
+    height: 60px;
+}
 
+.input6 input{
+  margin-right:-190px;
+    margin-top: 50px;
+    width: 870px;
+   height: 100px;
+}
+
+::placeholder{
+    font-size: large;
+    color: black;
+}
 
