@@ -173,10 +173,20 @@ color: black;
     margin-top: 50px;
     width: 870px;
    height: 100px;
+   padding-right: -250px;
+   margin-left:295px;
 }
-
 ::placeholder{
     font-size: large;
     color: black;
 }
+.button{
+    margin-left: 789px;  
+    background:rgba(98, 102, 234, 1);
+    border-radius: 15px;
+    width: 234;
+    height: 56;
+    padding-left: 79px;
+   }
+   .button
 
